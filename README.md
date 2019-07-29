@@ -12,7 +12,7 @@ http://hbase.apache.org/book.html#arch.overview
 
 ## how to run 
 step into flink bin directory
-1. "run ./xxx.jar"  
+1. "./flink run ./xxx.jar"  
 2. run "./start-cluster.sh" and submit the job by flink web dashboard at "localhost:8081"  
 
 https://ci.apache.org/projects/flink/flink-docs-release-1.8/dev/batch/examples.html
