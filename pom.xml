@@ -105,7 +105,7 @@
         <dependency>
             <artifactId>hadoop-common</artifactId>
             <groupId>org.apache.hadoop</groupId>
-            <version>2.7.5</version>
+            <version>3.4.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.mortbay.jetty</groupId>
